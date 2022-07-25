@@ -8,7 +8,7 @@ public class Patinhos {
         System.out.println("Digite a qtd: " );
         qtdDePato=sacnner.nextInt();
        int auxQ =qtdDePato;
-        while (qtdDePato<=10){
+       while (qtdDePato<=10){
 
               qtdDePato++;
                 System.out.println(auxQ+" patinho foram caminhar, e apenas "+(auxQ-1)+"voltaram de la." );

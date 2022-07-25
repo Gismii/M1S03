@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DoWhileNumeroImpar {
+public class ImpaEparFOR {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
