@@ -1,5 +1,4 @@
-import java.util.Scanner;
-public class CalcQuadradosEcubos {
+public class TabelaQuadradosCubos {
     public static void main(String[] args){
        // Scanner scanner =new Scanner(System.in);
         System.out.println("NUMERO  SQUARE  CUBO ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Patinhos {
+public class javaParabaixinhos {
     public static void main(String[] args) {
         Scanner sacnner=new Scanner(System.in);
 

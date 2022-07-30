@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ImpaEparWhileFOR {
+public class ParesEimpraes {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -25,5 +25,5 @@ public class ImpaEparWhileFOR {
             }
 
         }
-    }                         //ESSA GOSTEI DE REALIZAR UTILIZANDO APENAS O "FOR" //
+    }
 }
